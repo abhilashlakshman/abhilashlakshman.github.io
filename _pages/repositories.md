@@ -19,7 +19,7 @@ nav_order: 3
 - [Sleep and Circadian FAQ](http://www-personal.umich.edu/~ojwalch/sleepfaq/)
 
 ### Tools to study what I study
-- [phaseR](https://github.com/abhilashlakshman/phaseR) (The most recent version of my R-based software to analyse fly time-series and classify sleep stages in _Drosophila_)
+- [_phaseR_](https://github.com/abhilashlakshman/phaseR) (The most recent version of my R-based software to analyse fly time-series and classify sleep stages in _Drosophila_)
 - [Trikinetics](https://trikinetics.com) (The best way to record locomotor activity time-series in insects!)
 - [RhythmicAlly](https://github.com/abhilashlakshman/RhythmicAlly) (R-based software to analyse biological timeseries)
 - [PHASE](https://github.com/ajlopatkin/PHASE) (MATLAB-based software to analyse _Drosophila_ activity and sleep)
