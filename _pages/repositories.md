@@ -14,12 +14,12 @@ nav_order: 3
 - [BioImaging North America](https://www.bioimagingnorthamerica.org)
 
 ### My lab affiliations and general sleep and circadian questions you may have
-- [Orie Shafer Lab](https://www.shaferlab.org)
-- [Sheeba Vasu Lab](https://www.clockclub.org)
+- [Orie Shafer](https://biology.indiana.edu/about/faculty/shafer-orie.html)
+- [Sheeba Vasu Lab](https://www.jncasr.ac.in/faculty/sheeba)
 - [Sleep and Circadian FAQ](http://www-personal.umich.edu/~ojwalch/sleepfaq/)
 
 ### Tools to study what I study
-- [_phaseR_](https://github.com/abhilashlakshman/phaseR) (The most recent version of my R-based software to analyse fly time-series and classify sleep stages in _Drosophila_)
+- [PhaseR](https://github.com/abhilashlakshman/phaseR) (The most recent version of my R-based software to analyse fly time-series and classify sleep stages in _Drosophila_)
 - [Trikinetics](https://trikinetics.com) (The best way to record locomotor activity time-series in insects!)
 - [RhythmicAlly](https://github.com/abhilashlakshman/RhythmicAlly) (R-based software to analyse biological timeseries)
 - [PHASE](https://github.com/ajlopatkin/PHASE) (MATLAB-based software to analyse _Drosophila_ activity and sleep)
