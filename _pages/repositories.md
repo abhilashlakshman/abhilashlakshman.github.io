@@ -27,7 +27,7 @@ nav_order: 3
 - [Society for Research on Biological Rhythms (SRBR)](https://srbr.org)
 - [European Biological Rhythms Society (EBRS)](https://www.ebrs-online.org)
 - [Resonance Journal of Science Education](https://www.ias.ac.in/Journals/Resonance_–_Journal_of_Science_Education/) (An incredibly interesting journal of science education brought to you by the [Indian Academy of Sciences](https://www.ias.ac.in))
-- [Pueblo Brain Science]([https://www.ias.ac.in/Journals/Resonance_–_Journal_of_Science_Education/](https://www.pueblobrainscience.org/home]) (Learn about how an incredible team brings portable and accessible science to next-generation neuroscientists)
+- [Pueblo Brain Science](https://www.pueblobrainscience.org/home) (Learn about how an incredible team brings portable and accessible science to next-generation neuroscientists)
 
 ### Why the fly is awesome!!
 - [Flybase](http://flybase.org)
