@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Fellow. <a href='https://gillinstitute.iu.edu/'> Gill Instiutute for Neuroscience - Indiana University</a>.
+subtitle: Postdoctoral Fellow. <a href='https://gillinstitute.iu.edu/'> Gill Instiutute for Neuroscience </a> and <a href='https://biology.indiana.edu/index.html'> Department of Biology </a> - <a href = 'https://bloomington.iu.edu/index.html'> Indiana University Bloomington </a>.
 
 profile:
   align: right
-  image: prof_pic.JPG
+  image: AL_headshot_April2026.jpeg
   image_circular: false # crops the image to make it circular
   # more_info: >
     #<p>Multidisciplinary Science Building II</p>
