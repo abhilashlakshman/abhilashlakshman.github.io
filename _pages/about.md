@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 
 -----
 
-<b><i>I am currently on the faculty job market and the broader goals of my group will be to understand the intricate inter-relationships between circadian timekeeping in central and peripheral tissues, sleep, and metabolism. My other interests include studying the behavioral ecology of the timing of sleep/wake rhythms and bringing together evolution and neuroscience in the context of rhythmic behaviors.</i></b>
+<b><i>As I pursue faculty positions, my goal is to build a research program that addresses fundamental open questions at the intersection of circadian biology, sleep, and metabolism, particularly how timekeeping across central and peripheral tissues is integrated and functionally coordinated. Complementing this, I am deeply interested in how evolutionary and ecological forces have sculpted sleep/wake timing, bridging neuroscience with a broader biological context.</i></b>
 
 -----
 
