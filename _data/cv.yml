@@ -6,7 +6,7 @@
     - name: Designation
       value: Postdoctoral Fellow
     - name: Affiliation
-      value: Gill Institute for Neuroscience - Indiana University
+      value: Gill Institute for Neuroscience and Department of Biology - Indiana University Bloomington
     - name: Advisor
       value: Prof. Orie Shafer
 
@@ -14,13 +14,13 @@
   type: time_table
   contents:
     - title: Ph.D.
-      institution: Jawaharlal Nehru Center for Advanced Scientific Research, Bengaluru, India
+      institution: Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru, India
       year: 2021
       description:
         - Circadian organization and mechanisms of entrainment in populations of Drosophila melanogaster selected for divergent timing of eclosion.
         
     - title: M.S.
-      institution: Jawaharlal Nehru Center for Advanced Scientific Research, Bengaluru, India
+      institution: Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru, India
       year: 2015
       description:
         - Evolutionary and Organismal Biology
