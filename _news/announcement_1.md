@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-10 15:59:00-0400
+date: 2026-04-21 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I'm looking to join a vibrant biology department as an Assistant Professor. My group will be interested in the behavioral neuroscience of biological timekeeping in fruit flies.
+I am looking to join a dynamic Biology department as an Assistant Professor, where my group will combine behavioral neurogenetics, mathematical modeling, and open-source statistical methods to build a unifying framework for the fundamental biological principles governing the timing of sleep.
