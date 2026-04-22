@@ -3,7 +3,7 @@ layout: page
 title: RhythmicAlly
 description: a Shiny-based analysis program
 img: /assets/img/rhythmically1.jpeg
-importance: 4
+importance: 5
 category: tools
 ---
 
