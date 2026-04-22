@@ -3,7 +3,7 @@ layout: page
 title: phaseR
 description: upcoming analysis tool!
 img: assets/img/sleepStages_schematic.jpg
-importance: 3
+importance: 4
 category: tools
 ---
 
