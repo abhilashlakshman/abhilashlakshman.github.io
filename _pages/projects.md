@@ -5,7 +5,7 @@ permalink: /projects/
 description: Summary of some of my projects.
 nav: true
 nav_order: 2
-display_categories: [work, tools]
+display_categories: [work, tools, data]
 horizontal: false
 ---
 
