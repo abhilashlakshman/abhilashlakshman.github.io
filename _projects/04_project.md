@@ -3,7 +3,7 @@ layout: page
 title: phaseR
 description: New and improved analysis application. Use this to study sleep states in flies, and much more!
 img: assets/img/sleepStages_schematic.jpg
-importance: 4
+importance: 1
 category: tools
 ---
 
