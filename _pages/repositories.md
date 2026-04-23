@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: links
-description: General links of interest, my github profile, and some important repos.
+description: General links of interest and some useful repos.
 nav: true
 nav_order: 7
 ---
