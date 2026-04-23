@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /repositories/
-title: links of interest
+title: links
 description: General links of interest, my github profile, and some important repos.
 nav: true
-nav_order: 3
+nav_order: 7
 ---
 
 ### Open Science resources
@@ -50,5 +50,3 @@ nav_order: 3
   {% endfor %}
 </div>
 {% endif %}
-
-
