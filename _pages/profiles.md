@@ -3,7 +3,7 @@ layout: profiles
 permalink: /people/
 title: # leaving blank to remove the link from header ribbon.
 description: members of the lab or group
-nav: true
+nav: false
 nav_order: 6
 
 profiles:
