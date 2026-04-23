@@ -2,9 +2,9 @@
 layout: page
 permalink: /repositories/
 title: links
-description: General links of interest and some useful repos.
+description: General links of interest, my github profile, and some important repos.
 nav: true
-nav_order: 7
+nav_order: 8
 ---
 
 ### Open Science resources

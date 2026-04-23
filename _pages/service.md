@@ -4,7 +4,7 @@ permalink: /service/
 title: service & outreach
 description:
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 <b><i>Upcoming</i></b><br />

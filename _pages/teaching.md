@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Brief overview of my contributions to the academic community.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 <b><i>TEACHING and MENTORSHIP</i></b><br />
