@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /service/
-title: service
+title: service & outreach
 description:
 nav: true
 nav_order: 6
