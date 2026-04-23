@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Fellow. <a href='https://gillinstitute.iu.edu/'> Gill Instiutute for Neuroscience </a> and <a href='https://biology.indiana.edu/index.html'> Department of Biology </a> - <a href = 'https://bloomington.iu.edu/index.html'> Indiana University Bloomington </a>.
+subtitle: Postdoctoral Fellow. <a href='https://gillinstitute.iu.edu/'> Gill Institute for Neuroscience </a> and <a href='https://biology.indiana.edu/index.html'> Department of Biology </a> - <a href = 'https://bloomington.iu.edu/index.html'> Indiana University Bloomington </a>.
 
 profile:
   align: right
