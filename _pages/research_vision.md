@@ -16,7 +16,7 @@ A significant part of my early research was methodological, because the tools to
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/schematicOfAims_website.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
+</div><br />
 
 <b><i>Where the Research is Headed</i></b>
 My immediate aims follow directly from this question. The brain's central circadian clock is the canonical timekeeper, but there is growing evidence, in flies and mammals alike, that peripheral clocks in visceral tissues such as the gut and fat bodies play an active role in regulating physiology and behavior. I am investigating whether these peripheral clocks work alongside the brain clock as part of a distributed timekeeping network that sets the timing and amplitude of deep sleep. I am also working to identify the specific metabolites and neuropeptides, including gut-derived signals, that may carry circadian timing information from peripheral tissues to the brain. The goal is to map how central and peripheral clocks interact through the gut-brain axis to regulate deep sleep, with direct relevance to understanding how circadian disruption contributes to metabolic and physiological dysfunction in humans.<br />
