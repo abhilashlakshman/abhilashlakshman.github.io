@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Brief overview of my contributions to the academic community.
+description: Brief overview of my teaching philosophy and experience.
 nav: true
 nav_order: 6
 ---
