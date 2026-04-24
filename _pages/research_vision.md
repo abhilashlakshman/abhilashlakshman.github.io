@@ -18,8 +18,8 @@ A significant part of my early research was methodological, because the tools to
     </div>
 </div><br />
 
-<b><i>Where the Research is Headed</i></b><br />
+<b><i>Where my Research is Headed</i></b><br />
 My immediate aims follow directly from this question. The brain's central circadian clock is the canonical timekeeper, but there is growing evidence, in flies and mammals alike, that peripheral clocks in visceral tissues such as the gut and fat bodies play an active role in regulating physiology and behavior. I am investigating whether these peripheral clocks work alongside the brain clock as part of a distributed timekeeping network that sets the timing and amplitude of deep sleep. I am also working to identify the specific metabolites and neuropeptides, including gut-derived signals, that may carry circadian timing information from peripheral tissues to the brain. The goal is to map how central and peripheral clocks interact through the gut-brain axis to regulate deep sleep, with direct relevance to understanding how circadian disruption contributes to metabolic and physiological dysfunction in humans.<br />
 
-<b><i>The Longterm Vision</i></b><br />
+<b><i>My Longterm Vision</i></b><br />
 Over the next decade and beyond, I want to understand a more fundamental question: what determines whether a biological rhythm is flexible enough to adapt to a shifting environment, yet stable enough to resist being reset by noise or transient disturbance? This balance between plasticity and rigidity in circadian timekeeping has consequences that extend well beyond sleep. It touches on how organisms of all kinds respond to environmental variability, how populations persist through ecological disruption, and how timing-related traits evolve under selection. My group will pursue these questions using neurogenetics, dynamical modeling, and computational analyses of behavioral time series, with the goal of building predictive, mechanistic insight into one of biology's most fundamental phenomena.
