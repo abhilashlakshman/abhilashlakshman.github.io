@@ -17,7 +17,6 @@ Official Nominator 	<b>2026 - Present</b><br />
 Official Nominator 	<b>2025</b><br />
 <i>The VinFuture Prize</i>
 
-<b><i>Ongoing</i></b><br />
 OSF (Open Science Framework) Technology Advocate <b>2025 – Present</b><br />
 <i>Center for Open Science</i>
 
