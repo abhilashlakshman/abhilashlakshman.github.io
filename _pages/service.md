@@ -48,7 +48,7 @@ Preprint Editor (Systems Biology team lead)	<b>2023 – Present</b><br />
 </div>
 <div class="caption">
     <i>at PBS 2026 with an incredible team</i>
-</div>
+</div><br />
 
 
 <b>OUTREACH</b><br />
