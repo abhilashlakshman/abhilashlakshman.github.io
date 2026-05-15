@@ -11,6 +11,9 @@ nav_order: 7
 <b>SERVICE</b><br />
 
 <b><i>Current</i></b><br />
+Education Committee Member 	<b>2026 - Present</b><br />
+<i>Society for Research on Biological Rhythms</i>
+
 Official Nominator 	<b>2026 - Present</b><br />
 <i>The VinFuture Prize</i>
 
